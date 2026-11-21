@@ -23,7 +23,7 @@ This project uses SNAP's ca-GrQc arXiv General Relativity co-authorship network.
 - `tables/A/`: Person A CSV results
 - `report/sections/`: Person A report sections; Person B and shared sections are to be added
 
-## Reproduce Person A's analysis
+## Reproduce Ilyes rezgui's analysis
 
 From the project root, install the dependencies and run:
 
