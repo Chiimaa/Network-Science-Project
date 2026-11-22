@@ -1,0 +1,3 @@
+Network,R,p-value,Favored distribution,Significant
+Full network,15.55741666130357,9.283914883574391e-11,Truncated power law,True
+Largest connected component,16.6128494786227,2.1570411710845866e-10,Truncated power law,True

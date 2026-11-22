@@ -1,0 +1,7 @@
+Network,Comparison,R,p-value,Favored distribution,Significance
+Full network,power_law vs truncated_power_law,-84.06619561383616,0.0,truncated_power_law,Significant
+Full network,power_law vs lognormal,-68.50877895252093,1.0182021182081425e-14,lognormal,Significant
+Full network,power_law vs exponential,269.36606640631226,2.246965122624175e-13,power_law,Significant
+Largest connected component,power_law vs truncated_power_law,-100.94184888821198,0.0,truncated_power_law,Significant
+Largest connected component,power_law vs lognormal,-84.32899940958953,2.884961524589154e-17,lognormal,Significant
+Largest connected component,power_law vs exponential,185.25543937268276,9.096386136876444e-08,power_law,Significant

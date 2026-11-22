@@ -1,0 +1,13 @@
+Network,Strategy,Breakdown threshold
+Real,Random,0.4
+Real,Static degree,0.15000000000000002
+Real,Adaptive degree,0.15000000000000002
+Real,Betweenness,0.1
+Configuration,Random,0.45
+Configuration,Static degree,0.2
+Configuration,Adaptive degree,0.2
+Configuration,Betweenness,0.2
+BA,Random,0.5
+BA,Static degree,0.25
+BA,Adaptive degree,0.2
+BA,Betweenness,0.25

@@ -1,0 +1,4 @@
+Network,Adaptive degree,Betweenness,Random,Static degree,Theoretical failure threshold
+BA,0.2,0.25,0.5,0.25,0.9410292559230944
+Configuration,0.2,0.2,0.45,0.2,0.9403576753778984
+Real,0.15000000000000002,0.1,0.4,0.15000000000000002,0.9411153355347112

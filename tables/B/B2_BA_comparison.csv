@@ -1,0 +1,6 @@
+Metric,Real network,BA network
+Number of nodes,4158.0,4158.0
+Number of edges,13422.0,12465.0
+Average degree,6.455988455988456,5.995670995670996
+Average clustering,0.5568782161697929,0.01114681373094464
+Average shortest path length,6.049380016182999,3.960411126396212
